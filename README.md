@@ -5,7 +5,7 @@
 We did not upload our app onto the App Store. However, you can clone this repository or download it as a zip file and run the program through Xcode if you would like.
 
 # Usage
-Run the app on your computer in order to see the number of cases and deaths for the state of Texas and some of the counties that are in it. You can also view news articles being distributed around the US that are related to COVID-19.
+A work in progress app in purpose of recreating the Messenger App in efforts to send text, videos, and audio messages to all friends.
 
 # Technologies
 CocoaPods:
